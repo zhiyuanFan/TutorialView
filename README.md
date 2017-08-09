@@ -7,9 +7,9 @@ There are two shape to highlight your item for your tutorial walkthrough: cycle 
 
 when you're using TutorialView or TutorialRectView, you should initial with a model which type is TutorialModel.
 
-TutorialView need radius, centerPoint, title, towards(LineDirection Type)
+ * TutorialView need radius, centerPoint, title, towards(LineDirection Type), its size depends on radius.
 
-TutorialRectView need size, centerPoint, title, towards(LineDirection Type)
+ * TutorialRectView need size, centerPoint, title, towards(LineDirection Type), you can change the size of TutorialRectView by passing different size.
 
 # Direction
 ```
