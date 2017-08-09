@@ -23,5 +23,8 @@ public enum LineDirection {
 }
 ```
 
+# Dependency
+[snapKit](https://github.com/SnapKit/SnapKit) for Auto Layout
+
 
 ![image](https://github.com/zhiyuanFan/TutorialView/raw/master/screenshot.gif)
